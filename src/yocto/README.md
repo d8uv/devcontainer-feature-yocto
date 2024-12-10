@@ -7,7 +7,7 @@ Installs the build tool dependencies for bitbake and Yocto Linux development
 
 ```json
 "features": {
-    "ghcr.io/willmmiles/devcontainer-feature-yocto/yocto:0": {}
+    "ghcr.io/d8uv/devcontainer-feature-yocto/yocto:0": {}
 }
 ```
 
@@ -26,4 +26,4 @@ This Feature should work on recent versions of Debian/Ubuntu-based distributions
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/willmmiles/devcontainer-feature-yocto/blob/main/src/yocto/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/d8uv/devcontainer-feature-yocto/blob/main/src/yocto/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

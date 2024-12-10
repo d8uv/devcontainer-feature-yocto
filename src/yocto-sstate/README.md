@@ -7,7 +7,7 @@ Adds a volume for caching Yocto shared state
 
 ```json
 "features": {
-    "ghcr.io/willmmiles/devcontainer-feature-yocto/yocto-sstate:0": {}
+    "ghcr.io/d8uv/devcontainer-feature-yocto/yocto-sstate:0": {}
 }
 ```
 
@@ -17,4 +17,4 @@ Adds a volume for caching Yocto shared state
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/willmmiles/devcontainer-feature-yocto/blob/main/src/yocto-sstate/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/d8uv/devcontainer-feature-yocto/blob/main/src/yocto-sstate/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
