@@ -14,7 +14,7 @@ Two features are included:
 ```json
 "features": {
     "ghcr.io/willmmiles/devcontainer-feature-yocto/yocto:1": {
-        "release": "scarthgap"
+        "release": "walnascar"
     },
     "ghcr.io/willmmiles/devcontainer-feature-yocto/yocto-sscache:1": {}
 }

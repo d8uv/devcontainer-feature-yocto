@@ -1,19 +1,19 @@
 {
     "id": "yocto",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "name": "Yocto Embedded Linux",
     "description": "Installs the build tool dependencies for bitbake and Yocto Linux development",
     "options": {
         "release": {
             "type": "string",
             "proposals": [
+                "walnascar",
+                "styhead",
                 "scarthgap",
                 "nanbield",
-                "mickledore", 
-                "kirkstone",
-                "dunfell"
+                "mickledore"
             ],
-            "default": "scarthgap",
+            "default": "walnascar",
             "description": "Target yocto release.  This is used to validate the base image and select appropriate packages.  Version numbers such as 4.3 are also accepted."
         }
     },
