@@ -4,7 +4,9 @@ set -e
 
 # Map release to a version number
 declare -A release_version_map
-release_version_map[scarthgap]=4.4
+release_version_map[walnascar]=5.2
+release_version_map[styhead]=5.1
+release_version_map[scarthgap]=5.0
 release_version_map[nanbield]=4.3
 release_version_map[mickledore]=4.2
 release_version_map[langdale]=4.1

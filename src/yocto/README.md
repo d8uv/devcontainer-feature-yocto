@@ -15,7 +15,7 @@ Installs the build tool dependencies for bitbake and Yocto Linux development
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| release | Target yocto release.  This is used to validate the base image and select appropriate packages.  Version numbers such as 4.3 are also accepted. | string | scarthgap |
+| release | Target yocto release.  This is used to validate the base image and select appropriate packages.  Version numbers such as 4.3 are also accepted. | string | walnascar |
 
 ## OS Support
 
